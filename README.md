@@ -47,7 +47,7 @@ While working on this project, I learned:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](Images/dashboard.png)
+https://github.com/AjayVarma03/chocolate-sales-PowerBi-dashboard/blob/main/Images/Dashboard-Snapshot.png
 
 ---
 
