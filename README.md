@@ -62,7 +62,7 @@ Telugu-Full-Course-Project/
 ---
 
 ## 🚀 How to Use
-1. Download the `https://github.com/AjayVarma03/chocolate-sales-PowerBi-dashboard/blob/main/PBIX/Chocolets-Sales-Dashboard.pbix` file  
+1. Download the https://github.com/AjayVarma03/chocolate-sales-PowerBi-dashboard/blob/main/PBIX/Chocolets-Sales-Dashboard.pbix file  
 2. Open it in Power BI Desktop  
 3. Explore the dashboard using filters and visuals  
 
