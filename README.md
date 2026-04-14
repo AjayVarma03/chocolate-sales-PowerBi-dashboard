@@ -9,7 +9,9 @@ The goal was to understand how the business is performing in terms of sales, pro
 I worked with multiple datasets and combined them to create a single interactive dashboard that gives a complete view of the business.
 
 ---
-
+## 📸 Dashboard Preview
+![Dashboard](Images/Dashboard-Snapshot.png)
+---
 ## 📊 What This Dashboard Shows
 - Overall sales and profit performance  
 - Number of shipments and boxes sold  
@@ -45,9 +47,6 @@ While working on this project, I learned:
 - Excel  
 
 ---
-
-## 📸 Dashboard Preview
-![Dashboard](Images/Dashboard-Snapshot.png)
 
 ---
 
